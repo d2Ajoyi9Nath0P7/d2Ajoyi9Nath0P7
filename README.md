@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @d2Ajoyi9Nath0P7
-- 👀 I’m interested in problem-solving!
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @d2Ajoyi9Nath0P7 (Ajoy Nath)
 
-<!---
-d2Ajoyi9Nath0P7/d2Ajoyi9Nath0P7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about problem-solving, data structures, and algorithms.
+
+I’m open to collaborating on competitive programming and software projects.
+
+You can reach me via email: ajoynathiiuc@gmail.com
+
+**Fun fact:** I love solving challenging problems and building interesting projects!
+
+---
+
+### 📊 GitHub Stats
+
+<!-- এখানে GitHub stats badge দিলে ভালো হয়, তুমি চাইলে বলো আমি কোড দিই -->
+
+---
+
+### 🛠️ Skills
+
+- C, C++, Java  
+- Data Structures & Algorithms  
+- Competitive Programming  
+- Problem Solving  
+
+---
+
+### 📫 Connect with me
+
+- LinkedIn : https://www.linkedin.com/in/ajoy-nath-5357231a1/  
+- Email    : ajoynathiiuc@gmail.com  
+
+---
+
+Thanks for visiting my profile!
