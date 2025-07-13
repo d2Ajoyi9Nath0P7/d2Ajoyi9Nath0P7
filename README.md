@@ -1,4 +1,4 @@
-Hi, I’m @d2Ajoyi9Nath0P7 (Ajoy Nath)
+Hi, I’m Ajoy Nath
 
 I’m passionate about problem-solving, data structures, and algorithms.
 
