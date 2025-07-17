@@ -21,6 +21,7 @@ You can reach me via email : ajoynathiiuc@gmail.com
 
 - LinkedIn : https://www.linkedin.com/in/ajoy-nath-5357231a1/  
 - Email    : ajoynathiiuc@gmail.com  
+- Blog     : https://medium.com/@Ajoy_Nath/topological-sort-49b976832ff8
 
 
 Thanks for visiting my profile!
